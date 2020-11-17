@@ -5,7 +5,7 @@ const dotenv = require('dotenv');
 const mongoose = require('mongoose');
 const routePost = require('./routes/posts');
 
-
+//configerations to the dotenv
 dotenv.config();
 
 //Connect to MongoDB
